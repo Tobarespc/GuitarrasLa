@@ -1,0 +1,13 @@
+@keyframes animarImagen{
+    0%{
+        opacity: 0;
+        transform: translateY(-30rem);
+    }
+    50%{
+        transform: translateY(20rem);
+    }
+    100%{
+        transform: translateY(0rem);
+
+    }
+}
